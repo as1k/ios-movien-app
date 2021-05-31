@@ -38,7 +38,7 @@ class DetailViewController: UIViewController {
         
         titleLabel.text = movie.title
         overviewDetail.text = movie.overview
-        releaseDate.text = ("Release Date: " + (movie.release_date?.convertDateString())!)
+        releaseDate.text = ("Release Date: ".localized() + (movie.release_date?.convertDateString())!)
         
         client.movieDetail(movieID: (movieID)!) { (movieRes:Movie) in
             self.movie = movieRes

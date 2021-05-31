@@ -23,9 +23,9 @@ class ProfileViewController: UIViewController {
         cancelRequest = false
         
         if NetworkCheck.isConnectedToNetwork() {
-            print("You have internet connection!")
+            print("You have internet connection!".localized())
         } else {
-            print("No internet connection!")
+            print("No internet connection!".localized())
             connectionAlert()
         }
     }

@@ -1,0 +1,276 @@
+
+/* Class = "UITabBarItem"; title = "Saved"; ObjectID = "3CX-I2-zLl"; */
+"3CX-I2-zLl.title" = "Сохраненное";
+
+/* Class = "UILabel"; text = "REVENUE"; ObjectID = "3ht-Up-aWt"; */
+"3ht-Up-aWt.text" = "КІРІС";
+
+/* Class = "UILabel"; text = "Movie Title"; ObjectID = "45w-jn-bo2"; */
+"45w-jn-bo2.text" = "Фильмнің атауы";
+
+/* Class = "UINavigationItem"; title = "Videos"; ObjectID = "4d8-wG-tiL"; */
+"4d8-wG-tiL.title" = "Видео";
+
+/* Class = "UILabel"; text = "@asikn"; ObjectID = "4vz-x3-tG5"; */
+"4vz-x3-tG5.text" = "@asikn";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "5Hc-WA-ScX"; */
+"5Hc-WA-ScX.text" = "Заголовок";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "6MT-CJ-JIS"; */
+"6MT-CJ-JIS.text" = "Профиль";
+
+/* Class = "UILabel"; text = "TV Name"; ObjectID = "6dS-EG-ZSL"; */
+"6dS-EG-ZSL.text" = "Название Сериала";
+
+/* Class = "UILabel"; text = "COUNTRIES"; ObjectID = "6el-0N-zUv"; */
+"6el-0N-zUv.text" = "СТРАНЫ";
+
+/* Class = "UILabel"; text = "Cast & Crew "; ObjectID = "6fB-oc-Z6E"; */
+"6fB-oc-Z6E.text" = "Актеры и команда ";
+
+/* Class = "UILabel"; text = "2 Hours 30 minutes"; ObjectID = "6qr-Ym-wO9"; */
+"6qr-Ym-wO9.text" = "2 часа 30 минут";
+
+/* Class = "UILabel"; text = "Release Date"; ObjectID = "6yZ-ci-Rq0"; */
+"6yZ-ci-Rq0.text" = "Дата релиза";
+
+/* Class = "UILabel"; text = "Log in"; ObjectID = "7pV-tB-STW"; */
+"7pV-tB-STW.text" = "Войти";
+
+/* Class = "UILabel"; text = "Companies"; ObjectID = "88m-hp-7yj"; */
+"88m-hp-7yj.text" = "Компании";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "89x-Ce-Ikp"; */
+"89x-Ce-Ikp.text" = "4";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "BIa-AG-WId"; */
+"BIa-AG-WId.text" = "Заголовок";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "BSr-an-5Pc"; */
+"BSr-an-5Pc.normalTitle" = "Редактировать";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "BhS-EV-xW9"; */
+"BhS-EV-xW9.text" = "EMAIL";
+
+/* Class = "UILabel"; text = "SYNOPSIS"; ObjectID = "CG8-wq-UYj"; */
+"CG8-wq-UYj.text" = "ОБЗОР";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "; ObjectID = "EW5-QQ-Znj"; */
+"EW5-QQ-Znj.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "EjL-GC-rOe"; */
+"EjL-GC-rOe.normalTitle" = "Войти";
+
+/* Class = "UILabel"; text = "Appears In:"; ObjectID = "F3t-MR-ODT"; */
+"F3t-MR-ODT.text" = "Появится:";
+
+/* Class = "UILabel"; text = "RUNTIME"; ObjectID = "G4t-GF-lai"; */
+"G4t-GF-lai.text" = "ДЛИТЕЛЬНОСТЬ";
+
+/* Class = "UITabBarItem"; title = "Series"; ObjectID = "HIo-V9-fYT"; */
+"HIo-V9-fYT.title" = "Сериалы";
+
+/* Class = "UILabel"; text = "Sep 3, 2020"; ObjectID = "HLE-fL-6FL"; */
+"HLE-fL-6FL.text" = "Сен 3, 2020";
+
+/* Class = "UILabel"; text = "United Kingdom, Unites States"; ObjectID = "HQc-f1-xJp"; */
+"HQc-f1-xJp.text" = "Соединенное Королевство, Соединенные Штаты";
+
+/* Class = "UILabel"; text = "47999"; ObjectID = "He9-kv-zth"; */
+"He9-kv-zth.text" = "47999";
+
+/* Class = "UILabel"; text = "Movie Title"; ObjectID = "HuO-eG-8Zk"; */
+"HuO-eG-8Zk.text" = "Заголовок фильма";
+
+/* Class = "UILabel"; text = "Create Account"; ObjectID = "IT8-UW-5xH"; */
+"IT8-UW-5xH.text" = "Создать аккаунт";
+
+/* Class = "UILabel"; text = "Release Date"; ObjectID = "JYt-AA-1VY"; */
+"JYt-AA-1VY.text" = "Дата релиза";
+
+/* Class = "UILabel"; text = "Bio"; ObjectID = "Jtc-Iw-tVA"; */
+"Jtc-Iw-tVA.text" = "Био";
+
+/* Class = "UILabel"; text = "User Reviews"; ObjectID = "KND-BJ-lcu"; */
+"KND-BJ-lcu.text" = "Отзывы юзеров";
+
+/* Class = "UILabel"; text = "Custom List"; ObjectID = "KQB-dR-evr"; */
+"KQB-dR-evr.text" = "Пользовательский список";
+
+/* Class = "UILabel"; text = "Action, Thriller, Science Fiction"; ObjectID = "Kzt-Bq-SeY"; */
+"Kzt-Bq-SeY.text" = "Боевик, триллер, научная фантастика";
+
+/* Class = "UILabel"; text = "BUDGET"; ObjectID = "LRw-fR-0ZX"; */
+"LRw-fR-0ZX.text" = "БЮДЖЕТ";
+
+/* Class = "UILabel"; text = "$205,000,000.00"; ObjectID = "NQf-Sh-HOX"; */
+"NQf-Sh-HOX.text" = "$205,000,000.00";
+
+/* Class = "UILabel"; text = "We need your email to verify your account."; ObjectID = "PU4-H6-R7a"; */
+"PU4-H6-R7a.text" = "Нам нужен ваш адрес электронной почты для подтверждения вашей учетной записи.";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "PdB-nw-dFB"; */
+"PdB-nw-dFB.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "Q5K-aS-JaB"; */
+"Q5K-aS-JaB.normalTitle" = "Создать аккаунт";
+
+/* Class = "UILabel"; text = "____________"; ObjectID = "Qkc-xd-oAg"; */
+"Qkc-xd-oAg.text" = "____________";
+
+/* Class = "UILabel"; text = "Time runs out"; ObjectID = "RQY-Ye-2O1"; */
+"RQY-Ye-2O1.text" = "Время уходит";
+
+/* Class = "UILabel"; text = "$347,100,000.00"; ObjectID = "RSu-zk-h00"; */
+"RSu-zk-h00.text" = "$347,100,000.00";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "RXJ-YG-73f"; */
+"RXJ-YG-73f.normalTitle" = "Войти";
+
+/* Class = "UILabel"; text = "RELEASED : PG-13"; ObjectID = "S5P-BK-hUS"; */
+"S5P-BK-hUS.text" = "RELEASED : PG-13";
+
+/* Class = "UILabel"; text = "More Like This"; ObjectID = "SH5-3z-N6X"; */
+"SH5-3z-N6X.text" = "Больше похожее на это";
+
+/* Class = "UITextField"; placeholder = " Email or Username"; ObjectID = "TVX-yF-OLc"; */
+"TVX-yF-OLc.placeholder" = "Email или Username";
+
+/* Class = "UILabel"; text = "Watched  List"; ObjectID = "UZX-WN-N7X"; */
+"UZX-WN-N7X.text" = "Список просмотра";
+
+/* Class = "UILabel"; text = "We will definnitely not send mail about marketing."; ObjectID = "UoH-sc-Mnf"; */
+"UoH-sc-Mnf.text" = "Мы определенно не будем рассылать письма о маркетинге ".;
+
+/* Class = "UITabBarItem"; title = "Movies"; ObjectID = "VE9-hw-MQc"; */
+"VE9-hw-MQc.title" = "Фильмы";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "VYL-5H-zla"; */
+"VYL-5H-zla.text" = "Англиский";
+
+/* Class = "UILabel"; text = "_____"; ObjectID = "Vl6-e0-zpv"; */
+"Vl6-e0-zpv.text" = "_____";
+
+/* Class = "UILabel"; text = "BIO"; ObjectID = "WXK-Tu-cOI"; */
+"WXK-Tu-cOI.text" = "Био";
+
+/* Class = "UILabel"; text = "Director"; ObjectID = "Xnx-mZ-E7a"; */
+"Xnx-mZ-E7a.text" = "Директор";
+
+/* Class = "UILabel"; text = "May 2020"; ObjectID = "Z10-cv-WY5"; */
+"Z10-cv-WY5.text" = "Май 2020";
+
+/* Class = "UIButton"; normalTitle = "Add to Saved"; ObjectID = "Z2G-dO-Eoc"; */
+"Z2G-dO-Eoc.normalTitle" = "Добавить в сохраненное";
+
+/* Class = "UITextField"; placeholder = " Email "; ObjectID = "Z2P-TZ-Sa9"; */
+"Z2P-TZ-Sa9.placeholder" = " Email ";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "Zmh-8k-Pov"; */
+"Zmh-8k-Pov.text" = "ПАРОЛЬ";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "aIH-Xz-Wht"; */
+"aIH-Xz-Wht.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "acB-pO-gn9"; */
+"acB-pO-gn9.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UILabel"; text = "EMAIL OR USERNAME"; ObjectID = "aid-Lv-uyU"; */
+"aid-Lv-uyU.text" = "EMAIL или USERNAME";
+
+/* Class = "UILabel"; text = "No Rating"; ObjectID = "b8A-aj-cTs"; */
+"b8A-aj-cTs.text" = "Нет рейтинга";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "b9e-0y-VTD"; */
+"b9e-0y-VTD.text" = "3";
+
+/* Class = "UILabel"; text = "Android Developer"; ObjectID = "cME-NF-1xE"; */
+"cME-NF-1xE.text" = "Android Разработчик";
+
+/* Class = "UILabel"; text = "Watch  List"; ObjectID = "cbN-uf-lni"; */
+"cbN-uf-lni.text" = "Список просмотра";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "ced-J5-1yV"; */
+"ced-J5-1yV.text" = "Обзор";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "e2K-6V-yix"; */
+"e2K-6V-yix.text" = "ПАРОЛЬ";
+
+/* Class = "UILabel"; text = "Runtime: N/A"; ObjectID = "e64-xh-xim"; */
+"e64-xh-xim.text" = "Длительность: N/A";
+
+/* Class = "UILabel"; text = "Air Date:"; ObjectID = "ehV-R1-jYl"; */
+"ehV-R1-jYl.text" = "Дата выхода в эфир:";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "eqN-PB-rpn"; */
+"eqN-PB-rpn.text" = "Нет учетной записи?";
+
+/* Class = "UILabel"; text = "Movie Title"; ObjectID = "fUW-4O-CHi"; */
+"fUW-4O-CHi.text" = "Заголовок фильма";
+
+/* Class = "UITextField"; placeholder = " Password"; ObjectID = "fYa-8K-26F"; */
+"fYa-8K-26F.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "faU-lE-iBB"; */
+"faU-lE-iBB.text" = "Уже есть аккаунт?";
+
+/* Class = "UITextField"; placeholder = " Password"; ObjectID = "iHf-b2-zNK"; */
+"iHf-b2-zNK.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Videos"; ObjectID = "ing-4L-Rdo"; */
+"ing-4L-Rdo.text" = "Видер";
+
+/* Class = "UILabel"; text = "GENRES"; ObjectID = "izT-3Y-Jki"; */
+"izT-3Y-Jki.text" = "ЖАНРЫ";
+
+/* Class = "UILabel"; text = "No Rating"; ObjectID = "jnr-qf-OXg"; */
+"jnr-qf-OXg.text" = "Нет рейтинга";
+
+/* Class = "UILabel"; text = "Release Date"; ObjectID = "lFm-f5-SRl"; */
+"lFm-f5-SRl.text" = "Дата релиза";
+
+/* Class = "UILabel"; text = "Saved"; ObjectID = "lVz-Ir-23e"; */
+"lVz-Ir-23e.text" = "Сохраненное";
+
+/* Class = "UILabel"; text = "Release Date"; ObjectID = "n62-Jf-bd4"; */
+"n62-Jf-bd4.text" = "Дата релиза";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "nwG-xX-zRN"; */
+"nwG-xX-zRN.title" = "Профиль";
+
+/* Class = "UITextField"; placeholder = " Username"; ObjectID = "oE3-zV-pLG"; */
+"oE3-zV-pLG.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Tenet"; ObjectID = "qUx-rB-B3m"; */
+"qUx-rB-B3m.text" = "Довод";
+
+/* Class = "UISearchBar"; placeholder = "Search for movies"; ObjectID = "qXu-tp-xoJ"; */
+"qXu-tp-xoJ.placeholder" = "Искать фильмы";
+
+/* Class = "UILabel"; text = "Assylanbek          Nurmukhanbet"; ObjectID = "qmo-sO-NuY"; */
+"qmo-sO-NuY.text" = "Асыланбек          Нурмухамбет";
+
+/* Class = "UILabel"; text = "Actor Name"; ObjectID = "r5g-DO-Lfa"; */
+"r5g-DO-Lfa.text" = "Имя актера";
+
+/* Class = "UILabel"; text = "LANGUAGES"; ObjectID = "t6w-QE-p4u"; */
+"t6w-QE-p4u.text" = "ЯЗЫКИ";
+
+/* Class = "UILabel"; text = "USERNAME"; ObjectID = "tNu-yV-9l0"; */
+"tNu-yV-9l0.text" = "USERNAME";
+
+/* Class = "UILabel"; text = "Release Date: "; ObjectID = "ujt-6e-7Qf"; */
+"ujt-6e-7Qf.text" = "Дата релиза: ";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "vNC-sl-eRv"; */
+"vNC-sl-eRv.title" = "Поиск";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "va7-JE-PH6"; */
+"va7-JE-PH6.text" = "6";
+
+/* Class = "UILabel"; text = "JOINED"; ObjectID = "vbp-Tr-9fg"; */
+"vbp-Tr-9fg.text" = "ПРИСОЕДИНИЛСЯ";
+
+/* Class = "UILabel"; text = "Cristopher Nolan"; ObjectID = "z0y-Dv-qbh"; */
+"z0y-Dv-qbh.text" = "Кристофер Нолан";

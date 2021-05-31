@@ -10,7 +10,13 @@ import UIKit
 
 class HomeViewController: UIViewController {
     
-    var categories = ["", "Top Rated", "Now Playing", "Trending", "Popular Celebrities"]
+    var categories = [
+        "",
+        "Top Rated".localized(),
+        "Now Playing".localized(),
+        "Trending".localized(),
+        "Popular Celebrities".localized()
+    ]
     
     @IBOutlet weak var mainTableView: UITableView!
     
@@ -25,9 +31,9 @@ class HomeViewController: UIViewController {
         cancelRequest = false
         
         if NetworkCheck.isConnectedToNetwork() {
-            print("You have internet connection!")
+            print("You have internet connection!".localized())
         } else {
-            print("No internet connection!")
+            print("No internet connection!".localized())
             connectionAlert()
         }
     }
@@ -104,5 +110,17 @@ extension HomeViewController : UITableViewDataSource, UITableViewDelegate {
             return 90
         }
         return 145
+    }
+}
+
+extension String {
+    func localized() -> String {
+        return NSLocalizedString(
+            self,
+            tableName: "Localizable",
+            bundle: .main,
+            value: self,
+            comment: self
+        )
     }
 }
